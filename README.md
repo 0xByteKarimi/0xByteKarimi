@@ -50,14 +50,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clifford-karimi&show_icons=true&theme=default&hide_title=false" alt="Clifford's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clifford-karimi&theme=default" alt="Clifford's GitHub streak" height="165"/>
-</p>
-
 ---
 
 <p align="center"><i>Open to entry-level opportunities in IT Support, Network Administration, and Network Security.</i></p>
